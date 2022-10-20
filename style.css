@@ -1,0 +1,12 @@
+body{
+    background: url(./images/360_F_308131267_unLRF2JmPsjjXgrMRaFA3aEnrKa9aUxK.jpg) no-repeat;
+    background-size: cover;
+}
+
+
+.russ {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(300px);
+}
